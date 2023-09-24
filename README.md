@@ -11,12 +11,7 @@ ___
 <a href="JavaScript url" >
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </a>
-<a href="Figma url" >
-    <img alt="FIGMA" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-  <a href="MIT License url" >
-     <img alt = "MIT LICENSE" src="https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge" />
-    </a>
+
 </p>
 
 
